@@ -1,13 +1,12 @@
-#   Phantom ESP32
-*A lightweight open-source bicycle navigation computer built with the ESP32.*
+Phantom ESP32
+A lightweight open-source bicycle navigation computer built with the ESP32.
 
-BikeNav ESP32 is a DIY GPS cycling computer designed for outdoor use. It combines an **ESP32**, **u-blox MAX-M10M GPS receiver**, **Sharp Memory LCD**, and **microSD card** to create a low-power navigation device capable of displaying maps, tracking rides, and providing real-time cycling metrics.
+BikeNav ESP32 is a DIY GPS cycling computer designed for outdoor use. It combines an ESP32, u-blox MAX-M10M GPS receiver, Sharp Memory LCD, and microSD card to create a low-power navigation device capable of displaying maps, tracking rides, and providing real-time cycling metrics.
 
 The Sharp Memory LCD provides excellent sunlight readability while consuming very little power, making it ideal for long rides.
 
 ---
-
-## Features
+Features
 
 - 🗺️ Offline map rendering from microSD card
 - 📍 Real-time GPS positioning using the u-blox MAX-M10M
@@ -26,8 +25,7 @@ The Sharp Memory LCD provides excellent sunlight readability while consuming ver
 - Bluetooth capabilities for uploading to fitness apps such as Strava
 
 ---
-
-## Hardware
+Hardware
 
 | Component | Description |
 |------------|-------------|
@@ -36,10 +34,10 @@ The Sharp Memory LCD provides excellent sunlight readability while consuming ver
 | Sharp Memory LCD | Outdoor-readable display |
 | microSD Card Module | Offline maps and GPX storage |
 | Li-Ion/LiPo Battery | Portable power |
-| Battery Charger | USB charging circuit (optional) |
+| Battery Charger | USB charging circuit|
 | Handlebar Mount | Bicycle mounting system |
 
-## Offline Maps
+Offline Maps
 
 Maps are stored on the microSD card and loaded as needed.
 
@@ -53,7 +51,7 @@ The map renderer centers on the current GPS position while displaying nearby roa
 
 ---
 
-## Ride Data
+Ride Data
 
 The computer continuously records:
 
@@ -71,7 +69,7 @@ Tracks are stored as GPX files for later upload to services such as Strava or Ga
 
 ---
 
-## Why Sharp Memory LCD?
+Why Sharp Memory LCD?
 
 Unlike TFT or OLED displays, the Sharp Memory LCD offers:
 
