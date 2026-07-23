@@ -1,7 +1,7 @@
 Phantom ESP32
 A lightweight open-source bicycle navigation computer built with the ESP32.
 
-BikeNav ESP32 is a DIY GPS cycling computer designed for outdoor use. It combines an ESP32, u-blox MAX-M10M GPS receiver, Sharp Memory LCD, and microSD card to create a low-power navigation device capable of displaying maps, tracking rides, and providing real-time cycling metrics.
+BikeNav ESP32 is a DIY GPS cycling computer designed for outdoor use. It combines an ESP32, u-blox MAX-M10M GPS receiver, Sharp Memory LCD, and microSD card to create a low-power navigation device capable of displaying maps, tracking rides, and providing real-time cycling metrics. Checkout the Pictures folder for pictures of the PCB and enclosure.
 
 The Sharp Memory LCD provides excellent sunlight readability while consuming very little power, making it ideal for long rides.
 
