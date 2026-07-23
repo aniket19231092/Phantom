@@ -6,6 +6,10 @@ BikeNav ESP32 is a DIY GPS cycling computer designed for outdoor use. It combine
 The Sharp Memory LCD provides excellent sunlight readability while consuming very little power, making it ideal for long rides.
 
 This is a good project for those getting into embedded electronics and SMD soldering.
+---
+CAD
+Only two parts are needed to be 3D printed, the top and bottom enclosure, which are found in the CAD folder. ABS is preferred because it needs to be able to
+withstand the Sun. For assembly 4 M3 screws are needed, about 4-6mm in length is needed.
 
 ---
 Features
