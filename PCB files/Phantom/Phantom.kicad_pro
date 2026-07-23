@@ -526,7 +526,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/pigxt/OneDrive/Documents/Phantom/Phantom/PCB files/Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../CAD/PhantomPCB.step",
